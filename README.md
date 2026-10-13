@@ -1,8 +1,8 @@
-# Olá, sou a Sheila! 👋
+# Olá, tudo bem? Sou a Sheila, prazer em conhece-lo! 👋
 
-**Bacharel em TI | Designer Gráfica | Graduanda em Ciência de Dados (Univesp)**
+**Bacharela em TI | Designer Gráfica | Graduanda em Ciência de Dados (UNIVESP)**
 
-Meu objetivo é unificar a **lógica e arquitetura de TI**, o **Data Visualization & UX de Design** e a **inteligência analítica da Ciência de Dados** para transformar dados brutos em decisões de negócios estratégicas e funcionais.
+Meu objetivo é unificar a **lógica e arquitetura de TI**, o **Data Visualization & UX de Design** e a **inteligência analítica da Ciência de Dados** para transformar dados brutos em decisões estratégicas e funcionais.
 
 ---
 
@@ -23,15 +23,16 @@ Meu objetivo é unificar a **lógica e arquitetura de TI**, o **Data Visualizati
 | 📊 **Dashboard Executivo de Churn** | Power BI, UX/UI | Painel interativo com foco em retenção de clientes e navegação intuitiva. |
 | 🐍 **Análise Exploratória de Dados (EDA)** | Python, Pandas | Limpeza e tratamento de dados para identificação de padrões de consumo. |
 
+---
 
-#### 🌐 Produtos Digitais em Produção & Projetos Integradores
+### 🚀 Produtos Digitais em Produção & Projetos Integradores
 
-| Projeto | Categoria / Escopo | Descrição & Link |
-| :--- | :--- | :--- |
-| 🏥 **Centro Voz - Dr. Stephano Varela** | Web / UI & UX / Produção | Site profissional para clínica de Fonoaudiologia, com arquitetura da informação, design responsivo e foco em conversão de pacientes. <br>🔗 **[Acessar Centro Voz](https://centrovoz.com.br)** |
-| 💊 **Remédio em Casa Digital** | API & Saúde Pública | API para acompanhamento e agendamento da entrega de medicações de uso contínuo, otimizando a gestão logística e adesão ao tratamento. |
-| 🦷 **OdontoCare** | API & Healthtech | API para acompanhamento e monitoramento à distância de pós-procedimentos odontológicos, focada em métricas de recuperação do paciente. |
-| 📚 **DesbravaLivro** | App & EdTech | Aplicativo voltado para a avaliação, acompanhamento de métricas e estímulo à aderência de leitura para alunos do Ensino Fundamental. |
+| Projeto | Categoria / Escopo | Descrição da Solução | Demonstração / Links |
+| :--- | :--- | :--- | :--- |
+| 🏥 **Centro Voz - Dr. Stephano Varela** | Web / UI & UX / Produção | Site profissional para clínica de Fonoaudiologia, com arquitetura da informação, design responsivo e foco em conversão de pacientes. | 🔗 [Acessar Site](https://centrovoz.com.br) |
+| 💊 **Remédio em Casa Digital** | Python / MySQL / Saúde | Sistema e API para acompanhamento e agendamento de entrega de medicações de uso contínuo para a Farmácia Municipal. | 🎬 [Assistir Vídeo](https://youtu.be/e-my8w5V9p8) |
+| 🦷 **OdontoCare** | JavaScript / Supabase / Healthtech | Aplicação web para registro e acompanhamento digital de prontuários odontológicos e monitoramento pós-procedimento. | 🎬 [Assistir Vídeo](https://youtu.be/cUYg0TihA6o) |
+| 📚 **DesbravaLivro** | App & EdTech | Aplicativo voltado para a avaliação, acompanhamento e estímulo a aderência á leitura para alunos do Ensino Fundamental. | 🎬 [Assistir Vídeo](https://youtu.be/lkYzI4Cc3-E) |
 
 ---
 
